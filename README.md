@@ -1,4 +1,4 @@
-# TalkHive
+# TalkPulse
 
 A real-time chat application built using Django Channels and WebSocket protocol. This application leverages ASGI instead of WSGI to handle WebSocket connections, enabling real-time communication between clients.
 
